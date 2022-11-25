@@ -48,7 +48,7 @@ function Welcome() {
             </div>
             <div className={companyCommonStyles}>Low Fees</div>
             <div className={`rounded-br-2xl ${companyCommonStyles}`}>
-              Blockchain
+              Blockchainnnn
             </div>
           </div>
         </div>
